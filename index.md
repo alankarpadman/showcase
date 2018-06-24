@@ -98,20 +98,22 @@ Allscripts				               Support Consultant Associate 		          Sep 2013-J
 -Monitored ACID properties in databases and - Coordinated between Dev, QA and Clients, to maintain data quality.
 -Learned excellent verbal and written communication skills by communicating with clients with non-technical background and helped them fix the issues with Sunrise Clinical Manager, most of the client were nurses and doctors.
 
-LEADERSHIP and TEAMWORK 								      
-Participation                 	HackathonCLT  – Big Data Hackathon	                     	        March 2015 & 2017
-Community events	SQL Saturday, Microstrategy Symposium				        2015 - 2017
-Membership 	        Charlotte BI User Group, SQL Server User Group, Tableau User Group        	        	   2015 - Present
+LEADERSHIP and TEAMWORK
+
+Participation | HackathonCLT  – Big Data Hackathon | March 2015 & 2017
+------------- |----------------------------------- | -----------------
+Community events | SQL Saturday, Microstrategy Symposium | 2015 - 2017
+Membership | Charlotte BI User Group, SQL Server User Group, Tableau User Group | 2015 - Present
 
 PROFESSIONAL DEVELOPMENT – Coursera, Udemy, Datacamp, Big Data University, Harvard Business Review.
-•	Machine Learning in Python
-•	Data Analysis in R
-•	Metadata Organizing & Discovering Information
-•	Creativity, Innovation and Change		
-•	Model Thinking	              
-•	Developing Innovative Ideas for Businesses 
-•	A Beginner's Guide to Irrational Behavior
-•	Leadership and Emotional Intelligence    
+- Machine Learning in Python
+- Data Analysis in R
+- Metadata Organizing & Discovering Information
+- Creativity, Innovation and Change		
+- Model Thinking	              
+- Developing Innovative Ideas for Businesses 
+- A Beginner's Guide to Irrational Behavior
+- Leadership and Emotional Intelligence    
 
 
 ```
