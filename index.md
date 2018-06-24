@@ -195,10 +195,4 @@
   - Developing Innovative Ideas for Businesses 
   - A Beginner's Guide to Irrational Behavior
   - Leadership and Emotional Intelligence    
-
-
-```markdown
-Syntax highlighted code block
-
-[Link](url) and ![Image](src)
-```
+  
