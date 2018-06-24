@@ -1,4 +1,3 @@
-```markdown
 #Alankar Padman                                                                                                              
 
 `SKILLSET`
@@ -115,15 +114,6 @@ PROFESSIONAL DEVELOPMENT – Coursera, Udemy, Datacamp, Big Data University, Har
 - A Beginner's Guide to Irrational Behavior
 - Leadership and Emotional Intelligence    
 
-
-```
-
-Participation | HackathonCLT  – Big Data Hackathon | March 2015 & 2017
-------------- |----------------------------------- | -----------------
-Community events | SQL Saturday, Microstrategy Symposium | 2015 - 2017
-Membership | Charlotte BI User Group, SQL Server User Group, Tableau User Group | 2015 - Present
-
-#Separator
 
 ```markdown
 Syntax highlighted code block
