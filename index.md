@@ -1,11 +1,12 @@
----------------------------
+
 # _**Alankar Padman**_                                                                                                              
----------------------------
+
 
 
 ---------------------------
 ## 1. **SKILLSET**
 ---------------------------
+
 ##   - Cloud Platforms:
 - Google Cloud Platform (Compute Engine, Storage, Datalake in GCP, PubSub)
 - Azure Machine Learning Studio
@@ -37,9 +38,12 @@
 
 
 
+
+
 ---------------------------
 ## **2. PROJECTS**
 ---------------------------
+
 ##  - Operations Balanced Scorecard – SEAL	         	(SQL Server, SSIS, SSAS, PowerBI)				      ATD
   - Created data pipeline in the form of ETL packages to read data from Oracle-EBS, flat files and SharePoint Lists.
   - Learned Microstrategy Visual Insights (Dossier), Advanced Reporting and Enterprise Administration.
@@ -75,17 +79,31 @@
   - Analyzed publically available house prices datasets to build interpretable predictive models with high accuracy.
 
 
+
+
+
 ---------------------------
 ## **3. EDUCATION**
 ---------------------------
-## - University of North Carolina at Charlotte       M.S. - Computer Science                        GPA 3.90	                          Dec 2015                                        
-## - University of Pune, India		                   B.E. - Computer                                GPA 3.80	                         May 2013
+
+##  - University of North Carolina at Charlotte
+### M.S. - Computer Science
+### GPA 3.90
+### Dec 2015    
+
+##  - University of Pune, India
+## B.E. - Computer
+### GPA 3.80	
+### May 2013
+
+
 
 
 
 ---------------------------
 ## **4. COURSEWORK**
 ---------------------------
+
 - Database Systems
 - Big Data Analytics for Competitive Advantage
 - Business Intelligence and Analytics
@@ -96,6 +114,8 @@
 - IT Ethics, Securities and Policies
 - Survey of Programming Languages – R
 - Introduction to Game Design and Development
+
+
 
 
 
@@ -116,6 +136,7 @@
   - Built 3 POCs in the 2 years at ATD, 2 are productionized and used by ~200 business users in Operations and FP&A.
   - Received recognition for outstanding work on the Datacenter Move project which was 2nd largest project in 2017 at ATD.
 
+
 ## Business Intelligence Intern	
 ### American Tire Distributors
 ### May 2015 - Aug 2015
@@ -124,6 +145,7 @@
   - Shadowed seniors within the team to understand ETL, OLAP Cube processing (SSAS), Enterprise Data Warehouse, SSIS Packages, details of various data marts and modular design of ETLs which substantially reduces troubleshooting time.
   - Cultivated deep understanding of full Business Intelligence and Analytics life-cycle and BI architecture at ATD. It involved, developing the understanding how every moving part is interconnected for timely delivery of data.
   - Worked on the planning and pre-work of enterprise level SQL Server 2008 to 2014 upgrade with senior team member, which was later scrapped and the team upgraded to SQL Server 2016 instead.
+
 
 ## Support Consultant Associate
 ### Allscripts
@@ -136,6 +158,8 @@
 
 
 
+
+
 ---------------------------
 ## **LEADERSHIP and TEAMWORK**
 ---------------------------
@@ -143,15 +167,19 @@
   - HackathonCLT - Big Data Hackathon
   - Build Actions for Your Community - Google Assistant
 
+
 ###  - Community events   2015 - 2017
   - SQL Saturday
   - Microstrategy Symposium 
+
 
 ###  - Membership   2015 - Present
  - Charlotte BI User Group 
  - SQL Server User Group 
  - Tableau User Group
  - Charlotte Google Developer Group
+
+
 
 
 
@@ -171,18 +199,6 @@
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
