@@ -1,8 +1,8 @@
 # _**Alankar Padman**_                                                                                                              
 ---------------------------
 
-## **SKILLSET**
-## 1. Cloud:
+## 1. **SKILLSET**
+## Cloud:
 - Google Cloud Platform (Compute Engine, Storage, Datalake in GCP)
 - Azure Machine Learning Studio
 
