@@ -1,6 +1,7 @@
-# **Alankar Padman**                                                                                                              
+# _**Alankar Padman**_                                                                                                              
+---------------------------
 
-## *SKILLSET*
+## **SKILLSET**
 ## 1. Cloud:
 - Google Cloud Platform (Compute Engine, Storage, Datalake in GCP)
 - Azure Machine Learning Studio
@@ -30,7 +31,7 @@
 - Oracle
 - MySQL
 
-## *PROJECTS*
+## **PROJECTS**
 
 ## 1. Operations Balanced Scorecard – SEAL	         	(SQL Server, SSIS, SSAS, PowerBI)				      ATD
 - Created data pipeline in the form of ETL packages to read data from Oracle-EBS, flat files and SharePoint Lists.
@@ -71,7 +72,7 @@
 ## - University of Pune, India		                   B.E. - Computer                                GPA 3.80	                         May 2013
 
 
-## *COURSEWORK*
+## **COURSEWORK**
 - Database Systems
 - Big Data Analytics for Competitive Advantage
 - Business Intelligence and Analytics
@@ -84,9 +85,11 @@
 - Introduction to Game Design and Development
 
 
-## *PROFESSIONAL EXPERIENCE*
+## **PROFESSIONAL EXPERIENCE**
 
-## - American Tire Distributors	            Business Intelligence Developer		 	        Feb 2016 - Present
+## American Tire Distributors	
+## Business Intelligence Developer	
+## Feb 2016 - Present
 - Heavily involved in development of Datalake implementation and SQL Server 2016 Data Warehouse in Google Cloud.
 - Wrote SSIS packages and added calculated measures to SSAS Cube for KPIs and metrics such as DC Operations safety.
 - Built and successfully delivered PEG/SEAL dashboard phase 1 in PowerBI. It serves as a backbone of enterprise scorecards, KPIs that are used across the organization from forensic level to executive level (C-suite).
@@ -98,14 +101,18 @@
 - Built 3 POCs in the 2 years at ATD, 2 are productionized and used by ~200 business users in Operations and FP&A.
 - Received recognition for outstanding work on the Datacenter Move project which was 2nd largest project in 2017 at ATD.
 
-## - American Tire Distributors			 Business Intelligence Intern		                     May 2015-Aug 2015
+## American Tire Distributors
+## Business Intelligence Intern		                     
+## May 2015-Aug 2015
 - Built Time Series model for Customer Order forecasts using moving averages and smoothing to extract trends by eliminating seasonality. Used Data Mining plug in for Excel with connection to SSAS cubes. 
 - Developed and modified SSRS reports for Operations, Finance, Supply-Chain and Pricing departments’ data needs.
 - Shadowed seniors within the team to understand ETL, OLAP Cube processing (SSAS), Enterprise Data Warehouse, SSIS Packages, details of various data marts and modular design of ETLs which substantially reduces troubleshooting time.
 - Cultivated deep understanding of full Business Intelligence and Analytics life-cycle and BI architecture at ATD. It involved, developing the understanding how every moving part is interconnected for timely delivery of data.
 - Worked on the planning and pre-work of enterprise level SQL Server 2008 to 2014 upgrade with senior team member, which was later scrapped and the team upgraded to SQL Server 2016 instead.
 
-## - Allscripts				               Support Consultant Associate 		          Sep 2013-Jun 2014
+## Allscripts
+## Support Consultant Associate
+## Sep 2013-Jun 2014
 - Investigated client reported SQL Server database issues using T-SQL and made recommendations to fix the data to maintain consistency across systems while working in conjunction with team spread across Pune, Atlanta and Vancouver.
 - Received appreciation from clients on numerous occasions for quick and most feasible resolutions for the reported cases.
 - Used SQL traces to detect data anomalies as a first step in troubleshooting, reducing issue resolution time by 10%.
@@ -113,7 +120,7 @@
 - Learned excellent verbal and written communication skills by communicating with clients with non-technical background and helped them fix the issues with Sunrise Clinical Manager, most of the client were nurses and doctors.
 
 
-## *LEADERSHIP and TEAMWORK*
+## **LEADERSHIP and TEAMWORK**
 
 ### 1. Participation    March 2015 & 2017
 - HackathonCLT - Big Data Hackathon
@@ -129,7 +136,8 @@
 - Charlotte Google Developer Group
 
 
-## PROFESSIONAL DEVELOPMENT
+## **PROFESSIONAL DEVELOPMENT**
+
 ### *Coursera, Udemy, Datacamp, Big Data University, Harvard Business Review*
 - Machine Learning in Python
 - Data Analysis in R
