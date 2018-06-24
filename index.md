@@ -1,12 +1,12 @@
 ```markdown
 #Alankar Padman                                                                                                              
 
-##SKILLSET
+##`SKILLSET`
 
-###Cloud:
+###`Cloud:`
 Google Cloud Platform (Compute Engine, Storage, Datalake in GCP), Azure Machine Learning Studio
 
-###Visualization and Reporting:
+###`Visualization and Reporting:`
 PowerBI, SQL Server Reporting Services (SSRS), Tableau, D3.JS, Excel, Pivot Tables
 
 ###Languages:
