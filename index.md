@@ -5,7 +5,7 @@
 - Google Cloud Platform (Compute Engine, Storage, Datalake in GCP)
 - Azure Machine Learning Studio
 
-## 2. `Visualization and Reporting:`
+## 2. Visualization and Reporting:
 - PowerBI
 - SQL Server Reporting Services (SSRS)
 - Tableau
