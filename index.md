@@ -1,20 +1,34 @@
-# *Alankar Padman*                                                                                                              
+# **Alankar Padman**                                                                                                              
 
 ## *SKILLSET*
 ## 1. Cloud:
-Google Cloud Platform (Compute Engine, Storage, Datalake in GCP), Azure Machine Learning Studio
+- Google Cloud Platform (Compute Engine, Storage, Datalake in GCP)
+- Azure Machine Learning Studio
 
 ## 2. `Visualization and Reporting:`
-PowerBI, SQL Server Reporting Services (SSRS), Tableau, D3.JS, Excel, Pivot Tables
+- PowerBI
+- SQL Server Reporting Services (SSRS)
+- Tableau
+- D3.JS
+- Excel - Pivot Tables
 
 ## 3. Languages:
-SQL, R, Python for Data Analysis (NumPy, Pandas, Matplotlib, Scikit-Learn), PL-SQL, C#	       
+- SQL
+- R
+- Python for Data Analysis (NumPy, Pandas, Matplotlib, Scikit-Learn)
+- PL-SQL
+- C#	       
 
 ## 4. ETL and OLAP:
-SQL Server Integration Services – SSIS, SQL Server Analysis Services – SSAS, MDX
+- SQL Server Integration Services – SSIS
+- SQL Server Analysis Services – SSAS
+- MDX
 
 ## 5. Databases:
-SQL Server, PostgreSQL, Oracle, MySQL
+- SQL Server
+- PostgreSQL
+- Oracle
+- MySQL
 
 ## *PROJECTS*
 
@@ -98,12 +112,22 @@ SQL Server, PostgreSQL, Oracle, MySQL
 - Monitored ACID properties in databases and - Coordinated between Dev, QA and Clients, to maintain data quality.
 - Learned excellent verbal and written communication skills by communicating with clients with non-technical background and helped them fix the issues with Sunrise Clinical Manager, most of the client were nurses and doctors.
 
+
 ## *LEADERSHIP and TEAMWORK*
 
-Participation | HackathonCLT  – Big Data Hackathon | March 2015 & 2017
-------------- |----------------------------------- | -----------------
-Community events | SQL Saturday, Microstrategy Symposium | 2015 - 2017
-Membership | Charlotte BI User Group, SQL Server User Group, Tableau User Group | 2015 - Present
+### 1. Participation    March 2015 & 2017
+- HackathonCLT - Big Data Hackathon
+
+### 2. Community events   2015 - 2017
+- SQL Saturday
+- Microstrategy Symposium 
+
+### 3. Membership   2015 - Present
+- Charlotte BI User Group 
+- SQL Server User Group 
+- Tableau User Group
+- Charlotte Google Developer Group
+
 
 ## PROFESSIONAL DEVELOPMENT
 ### *Coursera, Udemy, Datacamp, Big Data University, Harvard Business Review*
