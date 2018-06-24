@@ -1,9 +1,11 @@
+---------------------------
 # _**Alankar Padman**_                                                                                                              
 ---------------------------
 
 
-
+---------------------------
 ## 1. **SKILLSET**
+---------------------------
 ##   - Cloud Platforms:
 - Google Cloud Platform (Compute Engine, Storage, Datalake in GCP, PubSub)
 - Azure Machine Learning Studio
@@ -35,8 +37,9 @@
 
 
 
+---------------------------
 ## **2. PROJECTS**
-
+---------------------------
 ##  - Operations Balanced Scorecard – SEAL	         	(SQL Server, SSIS, SSAS, PowerBI)				      ATD
   - Created data pipeline in the form of ETL packages to read data from Oracle-EBS, flat files and SharePoint Lists.
   - Learned Microstrategy Visual Insights (Dossier), Advanced Reporting and Enterprise Administration.
@@ -72,14 +75,17 @@
   - Analyzed publically available house prices datasets to build interpretable predictive models with high accuracy.
 
 
-
+---------------------------
 ## **3. EDUCATION**
+---------------------------
 ## - University of North Carolina at Charlotte       M.S. - Computer Science                        GPA 3.90	                          Dec 2015                                        
 ## - University of Pune, India		                   B.E. - Computer                                GPA 3.80	                         May 2013
 
 
 
+---------------------------
 ## **4. COURSEWORK**
+---------------------------
 - Database Systems
 - Big Data Analytics for Competitive Advantage
 - Business Intelligence and Analytics
@@ -92,8 +98,10 @@
 - Introduction to Game Design and Development
 
 
-## **5.PROFESSIONAL EXPERIENCE**
 
+---------------------------
+## **5.PROFESSIONAL EXPERIENCE**
+---------------------------
 ## Business Intelligence Developer
 ### American Tire Distributors		
 ### Feb 2016 - Present
@@ -109,8 +117,8 @@
   - Received recognition for outstanding work on the Datacenter Move project which was 2nd largest project in 2017 at ATD.
 
 ## Business Intelligence Intern	
-###  - American Tire Distributors
-###  - May 2015-Aug 2015
+### American Tire Distributors
+### May 2015 - Aug 2015
   - Built Time Series model for Customer Order forecasts using moving averages and smoothing to extract trends by eliminating seasonality. Used Data Mining plug in for Excel with connection to SSAS cubes. 
   - Developed and modified SSRS reports for Operations, Finance, Supply-Chain and Pricing departments’ data needs.
   - Shadowed seniors within the team to understand ETL, OLAP Cube processing (SSAS), Enterprise Data Warehouse, SSIS Packages, details of various data marts and modular design of ETLs which substantially reduces troubleshooting time.
@@ -118,8 +126,8 @@
   - Worked on the planning and pre-work of enterprise level SQL Server 2008 to 2014 upgrade with senior team member, which was later scrapped and the team upgraded to SQL Server 2016 instead.
 
 ## Support Consultant Associate
-###  - Allscripts
-###  - Sep 2013-Jun 2014
+### Allscripts
+### Sep 2013 - Jun 2014
   - Investigated client reported SQL Server database issues using T-SQL and made recommendations to fix the data to maintain consistency across systems while working in conjunction with team spread across Pune, Atlanta and Vancouver.
   - Received appreciation from clients on numerous occasions for quick and most feasible resolutions for the reported cases.
   - Used SQL traces to detect data anomalies as a first step in troubleshooting, reducing issue resolution time by 10%.
@@ -127,10 +135,13 @@
   - Learned excellent verbal and written communication skills by communicating with clients with non-technical background and helped them fix the issues with Sunrise Clinical Manager, most of the client were nurses and doctors.
 
 
-## **LEADERSHIP and TEAMWORK**
 
-###  - Participation    March 2015 & 2017
+---------------------------
+## **LEADERSHIP and TEAMWORK**
+---------------------------
+###  - Participation      2015 - 2018
   - HackathonCLT - Big Data Hackathon
+  - Build Actions for Your Community - Google Assistant
 
 ###  - Community events   2015 - 2017
   - SQL Saturday
@@ -143,8 +154,10 @@
  - Charlotte Google Developer Group
 
 
-## **PROFESSIONAL DEVELOPMENT**
 
+---------------------------
+## **PROFESSIONAL DEVELOPMENT**
+---------------------------
 ### *Coursera, Udemy, Datacamp, Big Data University, Harvard Business Review*
   - Machine Learning in Python
   - Data Analysis in R
