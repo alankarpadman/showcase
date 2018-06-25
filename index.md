@@ -86,15 +86,15 @@
 ## **3. EDUCATION**
 ---------------------------
 
-##  - University of North Carolina at Charlotte
-### M.S. - Computer Science
-### GPA 3.90
-### Dec 2015    
+## University of North Carolina at Charlotte
+- M.S. - Computer Science
+- GPA 3.90
+- Dec 2015    
 
-##  - University of Pune, India
-### B.E. - Computer
-### GPA 3.80	
-### May 2013
+## University of Pune, India
+- B.E. - Computer
+- GPA 3.80	
+- May 2013
 
 
 
