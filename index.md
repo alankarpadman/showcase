@@ -123,7 +123,7 @@
 ## **5.PROFESSIONAL EXPERIENCE**
 ---------------------------
 ## Business Intelligence Developer
-### American Tire Distributors  (Feb 2016 - Present)
+### *American Tire Distributors  (Feb 2016 - Present)*
   - Heavily involved in development of Datalake implementation and SQL Server 2016 Data Warehouse in Google Cloud.
   - Wrote SSIS packages and added calculated measures to SSAS Cube for KPIs and metrics such as DC Operations safety.
   - Built and successfully delivered PEG/SEAL dashboard phase 1 in PowerBI. It serves as a backbone of enterprise scorecards, KPIs that are used across the organization from forensic level to executive level (C-suite).
@@ -137,7 +137,7 @@
 
 
 ## Business Intelligence Intern	
-### American Tire Distributors  (May 2015 - Aug 2015)
+### *American Tire Distributors  (May 2015 - Aug 2015)*
   - Built Time Series model for Customer Order forecasts using moving averages and smoothing to extract trends by eliminating seasonality. Used Data Mining plug in for Excel with connection to SSAS cubes. 
   - Developed and modified SSRS reports for Operations, Finance, Supply-Chain and Pricing departments’ data needs.
   - Shadowed seniors within the team to understand ETL, OLAP Cube processing (SSAS), Enterprise Data Warehouse, SSIS Packages, details of various data marts and modular design of ETLs which substantially reduces troubleshooting time.
@@ -146,7 +146,7 @@
 
 
 ## Support Consultant Associate
-### Allscripts  (Sep 2013 - Jun 2014)
+### *Allscripts  (Sep 2013 - Jun 2014)*
   - Investigated client reported SQL Server database issues using T-SQL and made recommendations to fix the data to maintain consistency across systems while working in conjunction with team spread across Pune, Atlanta and Vancouver.
   - Received appreciation from clients on numerous occasions for quick and most feasible resolutions for the reported cases.
   - Used SQL traces to detect data anomalies as a first step in troubleshooting, reducing issue resolution time by 10%.
