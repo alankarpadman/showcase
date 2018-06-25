@@ -173,7 +173,7 @@
   - Microstrategy Symposium 
 
 
-###  - Membership   2015 - Present
+###  - Memberships   2015 - Present
  - Charlotte BI User Group 
  - SQL Server User Group 
  - Tableau User Group
